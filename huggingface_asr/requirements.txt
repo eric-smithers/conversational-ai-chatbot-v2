@@ -1,0 +1,6 @@
+transformers
+pyarrow==10.0.0
+datasets
+soundfile
+torch
+envparse
